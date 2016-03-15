@@ -1,0 +1,12 @@
+/* Entity name */
+"Box" = "Box";
+
+/* Go {name}! */
+"Go %@!" = "Go %@!";
+
+/* Hello {name}. */
+"Hello %@." = "Hello %@.";
+
+/* Default name */
+"World" = "World";
+

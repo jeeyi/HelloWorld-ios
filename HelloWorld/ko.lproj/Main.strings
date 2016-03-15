@@ -1,0 +1,6 @@
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "gVw-Dr-wcU"; */
+"gVw-Dr-wcU.normalTitle" = "입력";
+
+/* Class = "UITextField"; placeholder = "Enter Your Name"; ObjectID = "tzR-oT-qYa"; */
+"tzR-oT-qYa.placeholder" = "이름을 입력하세요";
+
