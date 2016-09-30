@@ -2,11 +2,11 @@
 "Box" = "Box";
 
 /* Go {name}! */
-"Go %@!" = "화이팅 %@!";
-
-/* Hello {name}. */
-"Hello %@." = "헬로우 %@.";
+"Go %@!" = "%@ 화이팅!";
 
 /* Default name */
 "World" = "월드";
+
+/* You have {count} songs today. */
+"You have %d songs today." = "%d개의 노래가 있습니다.";
 

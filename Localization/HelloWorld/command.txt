@@ -1,0 +1,5 @@
+runmoji repo-create -n HelloWorld -it "xliff:PRINTF_LIKE" -l fr-FR ko-KR
+
+runmoji push -r HelloWorld -ft XLIFF_NOBASENAME
+
+runmoji pull -r HelloWorld -ft XLIFF_NOBASENAME -lm "fr:fr-FR,ko:ko-KR"

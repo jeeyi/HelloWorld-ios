@@ -21,15 +21,22 @@
     NSString *yourName = self.inputField.text;
     NSString *myCompany = NSLocalizedString(@"Box", @"Entity name");
     NSString *message;
+    NSString *line1;
+    NSString *line2;
+    int count = arc4random_uniform(74) % 3;
     
-    if ([yourName length] == 0) {
+    if (yourName == nil || [yourName length] == 0) {
         yourName = NSLocalizedString(@"World", @"Default name");
     }
     
     if ([yourName isEqualToString:myCompany]) {
         message = [NSString stringWithFormat:NSLocalizedString(@"Go %@!", @"Go {name}!"), yourName];
     } else {
-        message = [NSString stringWithFormat:NSLocalizedString(@"Hello %@.", @"Hello {name}."), yourName  ];
+        line1 = NSLocalizedString(@"Hello %@.\nWelcome back!", @"Hello {name}.\nWelcome back!");
+        line1 = [NSString stringWithFormat:line1, yourName];
+        line2 = NSLocalizedString(@"You have %d songs today.", @"You have {count} songs today.");
+        line2 = [NSString localizedStringWithFormat:line2, count];
+        message = [NSString stringWithFormat: @"%@\n%@", line1, line2];
     }
     self.messageLabel.text = message;
 }
