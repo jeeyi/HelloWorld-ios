@@ -43,9 +43,11 @@
         <target xml:lang="fr">Go %@!</target>
 <note>Go {name}!</note>
       </trans-unit>
-      <trans-unit id="Hello %@.\nWelcome back!">
-        <source>Hello %@. Welcome back!</source>
-        <target xml:lang="fr">Hello %@. Welcome back!</target>
+      <trans-unit id="Hello %@.\nWelcome back!" xml:space="preserve">
+        <source>Hello %@.
+Welcome back!</source>
+        <target xml:lang="fr">Hello %@.
+Welcome back!</target>
 <note>Hello {name}.\nWelcome back!</note>
       </trans-unit>
       <trans-unit id="World">

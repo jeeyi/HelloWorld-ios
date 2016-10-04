@@ -41,7 +41,7 @@
         <source>Go %@!</source>
         <note>Go {name}!</note>
       </trans-unit>
-      <trans-unit id="Hello %@.\nWelcome back!">
+      <trans-unit id="Hello %@.\nWelcome back!" xml:space="preserve">
         <source>Hello %@.
 Welcome back!</source>
         <note>Hello {name}.\nWelcome back!</note>

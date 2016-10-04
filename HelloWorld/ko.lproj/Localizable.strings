@@ -4,6 +4,11 @@
 /* Go {name}! */
 "Go %@!" = "%@ 화이팅!";
 
+/* Hello {name}.\nWelcome back! */
+"Hello %@.
+Welcome back!" = "헬로우 %@.
+환영합니다.";
+
 /* Default name */
 "World" = "월드";
 

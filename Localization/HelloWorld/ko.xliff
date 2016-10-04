@@ -43,9 +43,11 @@
         <target xml:lang="ko">%@ 화이팅!</target>
 <note>Go {name}!</note>
       </trans-unit>
-      <trans-unit id="Hello %@.\nWelcome back!">
-        <source>Hello %@. Welcome back!</source>
-        <target xml:lang="ko">헬로우 %@. 환영합니다!</target>
+      <trans-unit id="Hello %@.\nWelcome back!" xml:space="preserve">
+        <source>Hello %@.
+Welcome back!</source>
+        <target xml:lang="ko">헬로우 %@.
+환영합니다.</target>
 <note>Hello {name}.\nWelcome back!</note>
       </trans-unit>
       <trans-unit id="World">
