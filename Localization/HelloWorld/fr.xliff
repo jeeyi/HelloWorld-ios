@@ -3,12 +3,12 @@
     <header>
     <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2"></tool></header>
     <body>
-      <trans-unit id="gVw-Dr-wcU.normalTitle">
+      <trans-unit id="gVw-Dr-wcU.normalTitle" xml:space="preserve">
         <source>Enter</source>
         <target xml:lang="fr">Enter</target>
 <note>Class = "UIButton"; normalTitle = "Enter"; ObjectID = "gVw-Dr-wcU";</note>
       </trans-unit>
-      <trans-unit id="tzR-oT-qYa.placeholder">
+      <trans-unit id="tzR-oT-qYa.placeholder" xml:space="preserve">
         <source>Enter Your Name</source>
         <target xml:lang="fr">Enter Your Name</target>
 <note>Class = "UITextField"; placeholder = "Enter Your Name"; ObjectID = "tzR-oT-qYa";</note>
@@ -19,11 +19,11 @@
     <header>
     <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2"></tool></header>
     <body>
-      <trans-unit id="CFBundleName">
+      <trans-unit id="CFBundleName" xml:space="preserve">
         <source>$(PRODUCT_NAME)</source>
       <target xml:lang="fr">$(PRODUCT_NAME)</target>
 </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
+      <trans-unit id="CFBundleShortVersionString" xml:space="preserve">
         <source>1.0</source>
       <target xml:lang="fr">1.0</target>
 </trans-unit>
@@ -33,12 +33,12 @@
     <header>
     <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2"></tool></header>
     <body>
-      <trans-unit id="Box">
+      <trans-unit id="Box" xml:space="preserve">
         <source>Box</source>
         <target xml:lang="fr">Box</target>
 <note>Entity name</note>
       </trans-unit>
-      <trans-unit id="Go %@!">
+      <trans-unit id="Go %@!" xml:space="preserve">
         <source>Go %@!</source>
         <target xml:lang="fr">Go %@!</target>
 <note>Go {name}!</note>
@@ -50,12 +50,12 @@ Welcome back!</source>
 Welcome back!</target>
 <note>Hello {name}.\nWelcome back!</note>
       </trans-unit>
-      <trans-unit id="World">
+      <trans-unit id="World" xml:space="preserve">
         <source>World</source>
         <target xml:lang="fr">World</target>
 <note>Default name</note>
       </trans-unit>
-      <trans-unit id="You have %d songs today.">
+      <trans-unit id="You have %d songs today." xml:space="preserve">
         <source>You have %d songs today.</source>
         <target xml:lang="fr">You have %d songs today.</target>
 <note>You have {count} songs today.</note>
@@ -66,11 +66,11 @@ Welcome back!</target>
     <header>
     <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2"></tool></header>
     <body>
-      <trans-unit id="CFBundleName">
+      <trans-unit id="CFBundleName" xml:space="preserve">
         <source>$(PRODUCT_NAME)</source>
       <target xml:lang="fr">$(PRODUCT_NAME)</target>
 </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
+      <trans-unit id="CFBundleShortVersionString" xml:space="preserve">
         <source>1.0</source>
       <target xml:lang="fr">1.0</target>
 </trans-unit>
@@ -80,11 +80,11 @@ Welcome back!</target>
     <header>
     <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2"></tool></header>
     <body>
-      <trans-unit id="CFBundleName">
+      <trans-unit id="CFBundleName" xml:space="preserve">
         <source>$(PRODUCT_NAME)</source>
       <target xml:lang="fr">$(PRODUCT_NAME)</target>
 </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
+      <trans-unit id="CFBundleShortVersionString" xml:space="preserve">
         <source>1.0</source>
       <target xml:lang="fr">1.0</target>
 </trans-unit>
